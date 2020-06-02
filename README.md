@@ -27,11 +27,11 @@
 
 > 预览
 
-懒得放图了，直接进入我的网站吧 >> [lovexhj.cn](http://love.xingly.cn)
+懒得放图了，直接进入我的网站吧 >> [love.xingly.cn](http://love.xingly.cn)
    
 > 开发不易，如果喜欢就点个小星星吧
 
-+ 我的主页：[Xingly](http://xingly.cn/)
-+ 我的博客：[Xingly](http://xingly.blog.csdn.net/)
-+ 我的Github：[Xingly](https://github.com/xingly-cn/)
++ 我的主页：[http://xingly.cn](http://xingly.cn/)
++ 我的博客：[http://xingly.blog.csdn.net](http://xingly.blog.csdn.net/)
++ 我的Github：[https://github.com/xingly-cn](https://github.com/xingly-cn/)
 
